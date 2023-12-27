@@ -12,6 +12,9 @@ Fazer o download do três arquivos presente neste diretório
 2. estilo.css;
 3. script.js.
 
+## API
+O projeto também faz uso de uma API (OpenWeatherMap) para obter dados em tempo real e previsões futuras para localizações específicas, exigindo uma chave de API para autenticação.
+
 Abrir a index.html em seu navegador<br>
 E no final o resultado será esse 👇🏼
 
