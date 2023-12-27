@@ -1,4 +1,4 @@
-# Projeto_Previsão_do_Tempo 👨🏼‍💻
+# Projeto_Previsão_do_Tempo 👨🏼‍💻🌧️
 
 ## Tecnologias 💻
 Esse projeto foi desenvolvido com as seguintes tecnologias:
